@@ -5,6 +5,11 @@ Acceso a Datos
 git@github.com:DAMSanClemente/AccesoDatos.git
 
 
+
+#Generar las "SSH keys"
+https://help.github.com/articles/generating-ssh-keys/
+
+
 #Como empezar
 Clona o descarga el repositorio
 
