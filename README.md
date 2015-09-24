@@ -1,6 +1,5 @@
 # Primeros Pasos
-Que alguien arregle esto ()
-@DAMSanClemente/a-team
+Que alguien arregle esto
 
 
 git@github.com:DAMSanClemente/AccesoDatos.git
